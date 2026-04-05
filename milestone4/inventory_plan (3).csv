@@ -1,0 +1,2 @@
+product_id,AvgDailySales,Total30dDemand,EOQ,SafetyStock,ReorderPoint,StdDev,Value,Cumulative%,ABC_Category,current_stock,StockHealth(%),Status
+BEV017,79.149,2374.47,760.12,2.04,556.08,0.47,1444472.02,100.0,C,,,Unknown
